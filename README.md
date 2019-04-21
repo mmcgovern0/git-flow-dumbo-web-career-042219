@@ -6,6 +6,12 @@
 * Get comfortable creating, merging, pushing, and pulling branches
 * Resolve merge conflicts
 
+<<<<<<< HEAD
+=======
+## Lauren Here:
+ 
+(╯°□°）╯︵ ┻━┻
+>>>>>>> add-fireflies
 
 ## Instructions
 
@@ -42,6 +48,7 @@ Before altering your code base, open `index.html` in the browser. In the first p
 </div>
 <!-- end turtle picture and caption -->
 ```
+
 
 * Open up your `index.html` and see how the page looks.
 * Stage and commit your changes.
